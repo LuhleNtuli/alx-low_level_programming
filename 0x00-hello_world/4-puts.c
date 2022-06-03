@@ -1,10 +1,9 @@
 #include <stdio.h>
 
- /**
-  * main - Entry point
-  * Description:main is the first entry point
-  * Return: Always 0 (Success)
-  */
+/**
+ * main - Program entry point
+ * Return: 0
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
